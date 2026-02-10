@@ -1,10 +1,10 @@
 ---
 name: create-article
-description: Guide for creating articles using templates. Use when asked to create a new NPC, session, faction, location, or similar entry for the Vaultlight campaign site.
+description: Guide for creating articles using templates. Use when asked to create a new NPC, session, faction, location, or similar entry for the Stardust Liar campaign site.
 ---
 
 ## Activation
-- Trigger when a request mentions creating a new NPC, session, faction, or location entry for the Vaultlight site.
+- Trigger when a request mentions creating a new NPC, session, faction, or location entry for the Stardust Liar site.
 - Look for keywords like "new npc", "add faction", "session notes", or "location article" in the user prompt.
 
 ## Behavior
@@ -24,6 +24,6 @@ description: Guide for creating articles using templates. Use when asked to crea
 6. Mention in the response which template was used and the destination path, so reviewers can verify placement.
 
 ## Notes
-- Keep the tone consistent with existing lore: noir, cosmic, descriptive.
+- Keep the tone consistent with existing lore: gritty, cynical-but-hopeful, survival-focused, descriptive.
 - If the request includes a specific session index or title, reflect that in both the front matter and document body.
 - When in doubt about the folder structure, follow the patterns shown in the current `_world` and `_sessions` directories.

@@ -44,7 +44,7 @@ The structure and approach were inspired by the JakeAO/Vaultlight repository, a 
 ### Core Pages
 - `index.md` - Homepage introducing the setting and premise
 - `world.md` - Galaxy information landing page
-- `info.md` - FATE Condensed rules reference
+- `info.md` - Stars Without Number rules reference
 - `sessions.md` - Session logs landing page
 - `gm-notes.md` - Private GM content access
 

@@ -19,7 +19,12 @@ Roll **3d6** for each attribute in order (or use point-buy if your GM allows):
 - Wisdom
 - Charisma
 
-Calculate modifiers for each (14+ is +1, 18 is +2, 7- is -1, 3 is -2).
+Calculate modifiers for each:
+- 3: -2 modifier
+- 4-7: -1 modifier
+- 8-13: +0 modifier
+- 14-17: +1 modifier
+- 18: +2 modifier
 
 ## Step 2: Choose a Background
 

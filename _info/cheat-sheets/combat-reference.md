@@ -141,8 +141,7 @@ You're still fighting effectively. No penalties.
 - **Stabilization:** Nearby ally makes Int/Medicine or Wisdom/Medicine check (difficulty 6)
 - **Without Help:** Make Physical save each round or die
 
-### Below 0 HP
-Characters don't track negative HP in SWN. You're either at 0+ (fighting) or 0 (dying).
+**Note:** Characters don't go below 0 HP in SWN. You're either at 1+ HP (fighting) or 0 HP (dying).
 
 ## Healing
 

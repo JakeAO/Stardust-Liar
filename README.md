@@ -4,12 +4,12 @@ A Jekyll-based static site for the Stardust Liar TTRPG campaign, featuring a gri
 
 ## Overview
 
-This repository hosts the campaign hub for **Stardust Liar**, a FATE Condensed campaign set in the corrupt, patchwork remains of a galactic civilization. Players navigate syndicate-controlled sectors, corrupt planetary governments, and volunteer aide networks while trying to survive in "the trash bin of space."
+This repository hosts the campaign hub for **Stardust Liar**, a Stars Without Number campaign set in the corrupt, patchwork remains of a galactic civilization. Players navigate syndicate-controlled sectors, corrupt planetary governments, and volunteer aide networks while trying to survive in "the trash bin of space."
 
 ## Features
 
 - **Public Player Content:**
-  - Rules & Info: FATE Condensed mechanics and cheat sheets
+  - Rules & Info: Stars Without Number mechanics and cheat sheets
   - Galaxy: Setting, revealed NPCs, locations, and factions
   - Session Logs: Chronological session summaries
   
@@ -55,7 +55,7 @@ The site will be available at `http://localhost:4000`
 .
 ├── _config.yml           # Jekyll configuration
 ├── _info/                # Rules and mechanics (public)
-│   ├── mechanics/        # FATE mechanics explanations
+│   ├── mechanics/        # SWN mechanics explanations
 │   └── cheat-sheets/     # Quick reference sheets
 ├── _world/               # Campaign world content (public)
 │   ├── npcs/             # Non-player characters
@@ -167,5 +167,5 @@ Campaign content is private. The Jekyll structure and theme are based on open-so
 
 - Built with [Jekyll](https://jekyllrb.com/)
 - Theme based on [Minima](https://github.com/jekyll/minima)
-- Powered by [FATE Condensed](https://www.evilhat.com/home/fate-condensed/)
+- Powered by [Stars Without Number: Revised Edition](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version)
 - Structure inspired by Vaultlight campaign hub

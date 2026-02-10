@@ -63,7 +63,7 @@ The structure and approach were inspired by the JakeAO/Vaultlight repository, a 
 3. **Jaxx "Wrench" Kovar** - Independent mechanic and smuggler
 
 ### Documentation
-- FATE mechanics explanation (aspects)
+- Stars Without Number mechanics explanations
 - Templates for creating NPCs, factions, locations, sessions
 - Comprehensive README with setup instructions
 
@@ -102,5 +102,5 @@ The structure supports easy expansion:
 
 - Structure inspired by JakeAO/Vaultlight
 - Built with Jekyll and Minima theme
-- Powered by FATE Condensed RPG system
+- Powered by Stars Without Number: Revised Edition RPG system
 - Deployed via GitHub Pages

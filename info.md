@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rules & Info
-description: FATE Condensed rules, mechanics, and cheat sheets
+description: Stars Without Number rules, mechanics, and cheat sheets
 permalink: /info/
 ---
 
@@ -9,8 +9,10 @@ This page contains player-facing rules clarifications, cheat sheets, and game me
 
 ## Core Resources
 
-- **[FATE Condensed SRD](https://fate-srd.com/fate-condensed/)** – The full system reference
-- **[Official FATE Condensed PDF](https://www.evilhat.com/home/fate-condensed/)** – Free download from Evil Hat
+- **[Stars Without Number: Revised Free Edition](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version)** – The complete free rulebook
+- **[SWN Resources on Dicegeeks](https://www.dicegeeks.com/stars-without-number-rpg-character-sheet/)** – Character sheets, faction sheets, and flowcharts
+- **[SWN Faction Spreadsheet](https://d0ngiovanni.github.io/swn-faction-spreadsheet/)** – Automated faction turn management
+- **[r/SWN Community](https://www.reddit.com/r/SWN/)** – Active community with resources and advice
 
 ## Quick Reference
 
@@ -41,4 +43,4 @@ Below are campaign-specific resources and rules clarifications, organized by top
 
 ---
 
-*New to FATE? Start with the [Get Started](https://fate-srd.com/fate-condensed/get-started) section of the SRD.*
+*New to Stars Without Number? Start by downloading the [free rulebook](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) and reading the Quick Reference on page 59.*

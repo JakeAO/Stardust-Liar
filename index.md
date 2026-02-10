@@ -6,7 +6,7 @@ permalink: /
 
 Welcome to **Stardust Liar**, where survival means navigating the corrupt, patchwork remains of a galaxy that forgot you existed.
 
-- Explore [Rules & Info]({{ "/info/" | relative_url }}) for FATE Condensed mechanics and cheat sheets
+- Explore [Rules & Info]({{ "/info/" | relative_url }}) for Stars Without Number mechanics and cheat sheets
 - Discover the [Galaxy]({{ "/world/" | relative_url }}) – its factions, characters, and forgotten corners
 - Read [Session Logs]({{ "/sessions/" | relative_url }}) documenting your crew's desperate maneuvers
 
@@ -38,7 +38,7 @@ But you keep going. Because that's what you do in the trash bin of space.
 
 ## System
 
-This campaign uses **FATE Condensed**, a narrative RPG system emphasizing character aspects, skills, and collaborative storytelling. See the [Info section]({{ "/info/" | relative_url }}) for rules and resources.
+This campaign uses **Stars Without Number: Revised Edition**, a sandbox sci-fi RPG system combining OSR-style mechanics with modern character creation, deadly combat, and tools for procedural sector generation. See the [Info section]({{ "/info/" | relative_url }}) for rules and resources.
 
 ---
 

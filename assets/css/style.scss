@@ -1,0 +1,68 @@
+---
+---
+
+@import "minima/skins/dark";
+@import "minima/initialize";
+
+// Stardust Liar Theme: Gritty Sci-Fi - "The Trash Bin of Space"
+// Muted palettes, hard-edged fonts, layered rundown visuals
+// Star Wars meets Cowboy Bebop aesthetic
+
+// Color Palette - Muted, Grimy, Industrial
+$background-dark: #0d0d0d;
+$background-medium: #1a1a1a;
+$background-card: #252525;
+$primary-accent: #8a6f47;
+$secondary-accent: #5a6b5e;
+$text-primary: #d4d4d4;
+$text-muted: #8a8a8a;
+$border-color: #3a3a3a;
+$warning-red: #8a5247;
+$hope-cyan: #4a7a7a;
+
+body {
+  background-color: $background-dark;
+  color: $text-primary;
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Impact', 'Franklin Gothic Bold', 'Arial Black', sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.7);
+}
+
+h1 {
+  font-size: 2.2em;
+  border-bottom: 3px double $primary-accent;
+  color: $primary-accent;
+}
+
+h2 {
+  font-size: 1.8em;
+  color: $secondary-accent;
+  border-left: 6px solid $primary-accent;
+  padding-left: 0.5em;
+}
+
+a {
+  color: $hope-cyan;
+  &:hover {
+    color: lighten($hope-cyan, 15%);
+  }
+}
+
+.site-header {
+  background: $background-medium;
+  border-bottom: 3px solid $primary-accent;
+  
+  .site-title {
+    color: $primary-accent;
+    font-family: 'Impact', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+  }
+}

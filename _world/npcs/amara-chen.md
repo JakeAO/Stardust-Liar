@@ -29,7 +29,7 @@ She's direct, often blunt, and has no patience for bureaucracy or excuses. But i
 
 ## Background
 
-Dr. Chen was a Coalition military surgeon before the collapse. She watched a civilian station in Sector 8 die from a plague outbreak because no one would send medicine. After that, she left the military, sold everything she owned, bought a medical frigate, and started Horizon Aid.
+Dr. Chen was a Coalition military surgeon before the collapse. She watched a civilian station in Sector 8 die from a plague outbreak because no one would send medicine. After that, she left the military, sold everything she owned, bought a medical frigate, named it "Second Chance," and started Horizon Aid.
 
 Twenty years later, she's still running supply missions, treating patients, and training volunteers. She should have retired a decade ago. She won't.
 
@@ -38,22 +38,6 @@ Twenty years later, she's still running supply missions, treating patients, and 
 - **Save Lives:** Treat the sick, feed the hungry, help the desperate
 - **Build Networks:** Train locals to help themselves
 - **Prove a Point:** People matter, even when governments say they don't
-
-## Working with Dr. Chen
-
-If you help Horizon Aid:
-- She'll remember you
-- She'll trust you (until you prove untrustworthy)
-- She'll call on you when things are desperate
-- She'll patch you up, no questions asked
-
-She pays poorly but treats everyone with dignity. Most crews help her because it feels good to do something that matters.
-
-## Notable Aspects
-
-- ***Someone Has to Care***
-- ***Stubborn Beyond Reason***
-- ***Oath to Do No Harm***
 
 ---
 

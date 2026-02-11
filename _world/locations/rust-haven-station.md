@@ -46,14 +46,6 @@ Rust Haven survives on determination and mutual support, but it's fragile:
 
 But they keep going. Because it's theirs.
 
-## Why It Matters
-
-Rust Haven proves something important: people can take care of each other without syndicates or corporations running everything. That's why the syndicates would love to see it fail. That's why the residents fight so hard to keep it alive.
-
-## Relationship with Players
-
-Rust Haven welcomes honest traders and offers fair prices. They can't pay much, but they'll share what they have. Many crews stop here because it's one of the few places in the outer sectors where you don't have to watch your back constantly.
-
 ---
 
 *"We're all broken things out here. Might as well be broken together."* —Station motto

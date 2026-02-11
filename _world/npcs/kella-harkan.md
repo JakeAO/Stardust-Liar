@@ -38,23 +38,6 @@ She's never married, has no known family, and trusts exactly three people (all s
 - **Stability:** Chaos is bad for business
 - **Respect:** Not love, not fear—respect for what she built
 
-## Dealing with Kella
-
-If you end up in her office:
-- Be professional
-- Don't waste her time
-- Don't lie (she always finds out)
-- Bring solutions, not problems
-- Remember: you're negotiating, not begging
-
-She values competence and reliability. Prove you're useful and she'll keep you around. Prove you're trouble and you'll disappear.
-
-## Notable Aspects
-
-- ***Cold Professionalism***
-- ***Syndicate First, Always***
-- ***Pragmatic to a Fault***
-
 ---
 
 *"I don't need you to like me. I need you to pay your fees and do your job. Everything else is negotiable."*

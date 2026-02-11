@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Faction Template
+topic: Factions
 ---
 
 # [Faction Name]
@@ -25,10 +26,6 @@ title: Faction Template
 ## Leadership
 
 [Who runs this faction? Brief description of key figures]
-
-## Relationship with Players
-
-[How this faction interacts with the crew—opportunities, threats, complications]
 
 ---
 

@@ -35,10 +35,6 @@ The Makara Planetary Authority is what happens when corporations stop pretending
 
 Small resistance cells exist, trying to organize workers and smuggle off-world journalists onto the planet. The Authority crushes them systematically. Most resistance members end up in "extended contracts" in the deep mines.
 
-## Relationship with Players
-
-Makara Prime needs supplies and transport. They pay well—with strict conditions. Don't ask questions, don't talk to workers, deliver on time. Break the rules and you'll be detained for "interfering with planetary security."
-
 ---
 
 *"Visit beautiful Makara Prime! Work opportunities available! Terms and conditions may apply."* —Recruitment poster

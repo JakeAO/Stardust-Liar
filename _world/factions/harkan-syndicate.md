@@ -26,10 +26,6 @@ The Harkan Syndicate is the dominant criminal organization in Sector 7, having f
 
 **Kella Harkan** runs the syndicate with cold efficiency. She took over from her father fifteen years ago and has systematically eliminated competitors. Known for being brutally practical—she'll negotiate if it makes financial sense, but cross her once and you're done.
 
-## Relationship with Players
-
-The Harkan Syndicate is impossible to avoid if you operate in Sector 7. Most crews pay the fees, keep their heads down, and try not to attract attention. Those who can't pay work off their debts doing jobs for the syndicate—which usually means getting pulled deeper into their operations.
-
 ---
 
 *"The Coalition had laws. Harkan has rules. At least with Harkan, you know where you stand."*

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NPC Template
+topic: Characters
 ---
 
 # [NPC Name]
@@ -27,16 +28,6 @@ title: NPC Template
 
 - **[Primary Goal]:** [Description]
 - **[Secondary Goal]:** [Description]
-
-## Relationship with Players
-
-[How this NPC might interact with the crew—what they offer, what they need, how they complicate things]
-
-## Notable Aspects
-
-- ***[Aspect 1]***
-- ***[Aspect 2]***
-- ***[Aspect 3]***
 
 ---
 

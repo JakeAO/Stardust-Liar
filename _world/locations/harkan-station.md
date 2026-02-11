@@ -39,7 +39,7 @@ The station is a paradox: dangerous but orderly, corrupt but reliable. The syndi
 - Housing for station workers and permanent residents
 - Surprisingly well-maintained (syndicate keeps infrastructure running)
 - Cheap apartments, expensive safety
-- Monthly rent includes "protection fees"
+- Monthly rent includes mandatory "protection fees"
 
 ### The Crown (Levels 26-30)
 - Syndicate headquarters and administrative offices
@@ -62,16 +62,6 @@ Enforcers are everywhere:
 - Market patrols (collecting protection fees)
 - Residential security (surprisingly effective)
 - Crown district guards (do not test them)
-
-## Relationship with Players
-
-Harkan Station is unavoidable. You'll dock here for supplies, repairs, and work. Just remember:
-1. Pay your fees on time
-2. Don't cause trouble
-3. Keep the syndicate happy
-4. Question nothing
-
-Follow those rules and you'll be fine. Probably.
 
 ---
 

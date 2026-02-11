@@ -43,10 +43,6 @@ Most volunteers are:
 - Pilots who need to feel useful
 - People who lost someone and want to help others survive
 
-## Relationship with Players
-
-Horizon Aid needs transport, supplies, and protection. They can't pay market rates, but they offer medical care, repairs, and contacts throughout the outer sectors. Most importantly, they're one of the few organizations out here that actually tries to help.
-
 ---
 
 *"Someone has to care. Might as well be us."* —Horizon Aid motto

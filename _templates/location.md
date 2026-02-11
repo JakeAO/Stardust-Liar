@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Location Template
+topic: Locations
 ---
 
 # [Location Name]
@@ -27,10 +28,6 @@ title: Location Template
 ## The Reality
 
 [The truth behind the surface—dangers, problems, or hidden aspects]
-
-## Relationship with Players
-
-[How this location fits into gameplay—what opportunities or complications it presents]
 
 ---
 

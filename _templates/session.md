@@ -22,10 +22,4 @@ summary: "[One-line log of what happened]"
 - [Any lore, clues, or secrets uncovered]
 - [Important NPC reactions or decisions]
 
-## Player Questions / Goals
-- [Ongoing investigations or player promises]
-
-## Aspects Introduced
-- ***"[Aspect text]"***
-
 ---

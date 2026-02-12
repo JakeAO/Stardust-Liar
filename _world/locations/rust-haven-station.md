@@ -5,8 +5,6 @@ topic: Locations
 summary: A pocket of hope—a community-run station in Sector 8
 ---
 
-# Rust Haven Station
-
 **Location:** Sector 8, Outer Rim
 
 **Population:** ~3,200 permanent residents, varies with transients

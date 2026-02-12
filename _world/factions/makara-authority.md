@@ -5,8 +5,6 @@ topic: Factions
 summary: Corrupt government of Makara Prime, openly controlled by corporate interests
 ---
 
-# Makara Planetary Authority
-
 **Location:** Makara Prime (Sector 4)
 
 **Status:** Nominally independent planetary government; actually run by the Makara Mining Consortium

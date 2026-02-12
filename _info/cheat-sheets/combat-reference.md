@@ -5,8 +5,6 @@ topic: Cheat Sheets
 summary: Combat actions, modifiers, and procedures
 ---
 
-# Combat Reference
-
 Quick reference for running combat in Stars Without Number.
 
 ## Initiative Order

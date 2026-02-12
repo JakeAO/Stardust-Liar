@@ -4,8 +4,6 @@ title: Androids
 topic: Species
 ---
 
-# Androids
-
 **Homeworld:** Manufactured across Coalition core systems
 
 **Population:** Common in former Coalition space, less common in the outer systems

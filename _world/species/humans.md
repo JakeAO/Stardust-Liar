@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Humans
+topic: Species
 ---
-
-# Humans
 
 **Homeworld:** Earth (mythic) / multiple settled worlds
 

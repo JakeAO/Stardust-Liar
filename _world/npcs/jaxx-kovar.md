@@ -5,8 +5,6 @@ topic: NPCs
 summary: Freelance mechanic and smuggler operating in Sector 7
 ---
 
-# Jaxx "Wrench" Kovar
-
 **Role:** Independent ship mechanic and part-time smuggler
 
 **Age:** 34

@@ -5,8 +5,6 @@ topic: NPCs
 summary: Leader of the Harkan Syndicate, ruthless and pragmatic
 ---
 
-# Kella Harkan
-
 **Role:** Syndicate Boss, de facto ruler of Sector 7
 
 **Age:** 42

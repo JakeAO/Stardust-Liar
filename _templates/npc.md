@@ -4,8 +4,6 @@ title: NPC Template
 topic: Characters
 ---
 
-# [NPC Name]
-
 **Role:** [Their job/position]
 
 **Age:** [Age if relevant]

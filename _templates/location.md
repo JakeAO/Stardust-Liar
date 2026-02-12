@@ -4,8 +4,6 @@ title: Location Template
 topic: Locations
 ---
 
-# [Location Name]
-
 **Type:** [Station / Planet / Sector / etc.]
 
 **Population:** [Number or estimate]

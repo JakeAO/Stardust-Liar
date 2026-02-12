@@ -9,6 +9,7 @@ This page contains player-facing rules clarifications, cheat sheets, and game me
 
 ## Core Resources
 
+- **[Core Rulebook (Deluxe Edition)]({{ site.baseurl }}/info/mechanics/core-rulebook/)** – The full deluxe rulebook used for this campaign
 - **[Stars Without Number: Revised Free Edition](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version)** – The complete free rulebook
 - **[SWN Resources on Dicegeeks](https://www.dicegeeks.com/stars-without-number-rpg-character-sheet/)** – Character sheets, faction sheets, and flowcharts
 - **[SWN Faction Spreadsheet](https://d0ngiovanni.github.io/swn-faction-spreadsheet/)** – Automated faction turn management
@@ -43,4 +44,4 @@ Below are campaign-specific resources and rules clarifications, organized by top
 
 ---
 
-*New to Stars Without Number? Start by downloading the [free rulebook](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) and reading the Quick Reference on page 59.*
+*New to Stars Without Number? Start by viewing the [Core Rulebook]({{ site.baseurl }}/info/mechanics/core-rulebook/) and reading the Quick Reference on page 59.*

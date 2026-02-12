@@ -4,8 +4,6 @@ title: Faction Template
 topic: Factions
 ---
 
-# [Faction Name]
-
 **Type:** [Criminal syndicate / Government / Aid organization / etc.]
 
 **Control:** [What territory or operations they control]

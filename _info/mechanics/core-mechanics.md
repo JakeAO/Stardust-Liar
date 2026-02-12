@@ -5,8 +5,6 @@ topic: Mechanics
 summary: Essential Stars Without Number mechanics for play
 ---
 
-# Core Mechanics
-
 Stars Without Number uses a mix of 2d6 skill checks and d20 combat rolls, combining OSR-style danger with modern skill-based gameplay.
 
 ## The Core Roll: 2d6 + Skill + Attribute

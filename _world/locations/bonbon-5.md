@@ -5,8 +5,6 @@ topic: Locations
 summary: Polluted dwarf planet and abandoned factory-world
 ---
 
-# BonBon-5
-
 **Type:** Dwarf planet, industrial ruin
 
 **Population:** Fewer than 20,000, almost all in The Needle

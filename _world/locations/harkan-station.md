@@ -5,8 +5,6 @@ topic: Locations
 summary: Major trade hub and headquarters of the Harkan Syndicate
 ---
 
-# Harkan Station
-
 **Location:** Sector 7, Primary Trade Hub
 
 **Population:** ~50,000 permanent, 10,000+ transient

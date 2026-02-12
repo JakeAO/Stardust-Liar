@@ -5,8 +5,6 @@ topic: Cheat Sheets
 summary: One-page reference for common rules and rolls
 ---
 
-# Quick Reference
-
 ## Basic Skill Check
 **2d6 + Skill Level + Attribute Modifier vs. Target**
 - **8+** Standard difficulty

@@ -4,8 +4,6 @@ title: Species Template
 topic: Species
 ---
 
-# [Species Name]
-
 **Homeworld:** [Planet/region of origin, or "Unknown" if relevant]
 
 **Population:** [Common / Rare / Endangered / etc.]

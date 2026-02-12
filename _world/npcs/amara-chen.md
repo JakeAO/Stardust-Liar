@@ -5,8 +5,6 @@ topic: NPCs
 summary: Founder of Horizon Aid, stubborn humanitarian
 ---
 
-# Dr. Amara Chen
-
 **Role:** Founder and Director of Horizon Aid Collective
 
 **Age:** 63

@@ -5,8 +5,6 @@ topic: Factions
 summary: Volunteer medical and supply fleet operating in the outer sectors
 ---
 
-# Horizon Aid Collective
-
 **Type:** Volunteer humanitarian organization
 
 **Area of Operations:** Sectors 5-9 (the "Forgotten Sectors")

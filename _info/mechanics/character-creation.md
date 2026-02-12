@@ -5,8 +5,6 @@ topic: Mechanics
 summary: How to create a Stars Without Number character
 ---
 
-# Character Creation
-
 Creating a character for Stardust Liar follows the Stars Without Number process with some campaign-specific flavor.
 
 ## Step 1: Roll Attributes

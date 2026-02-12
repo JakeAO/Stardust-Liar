@@ -5,8 +5,6 @@ topic: Factions
 summary: Ruthless crime organization controlling most of Sector 7
 ---
 
-# The Harkan Syndicate
-
 **Control:** Sector 7 (including Harkan Station, three mining colonies, and multiple trade routes)
 
 **Reputation:** *"Pay up or ship out—preferably both."*

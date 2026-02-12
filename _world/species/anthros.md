@@ -4,8 +4,6 @@ title: Anthros
 topic: Species
 ---
 
-# Anthros
-
 **Homeworld:** Various worlds across former Coalition space
 
 **Population:** Extremely rare
